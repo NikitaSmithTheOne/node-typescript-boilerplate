@@ -32,7 +32,7 @@
   "author": "Nikita Galkin <n.galkin.official@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "tslib": "~2.0.3"
   },
   "volta": {
